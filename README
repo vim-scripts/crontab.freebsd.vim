@@ -1,0 +1,4 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1229
+
+Crontab syntax, with FreeBSD extensions.
+Understands comments, environment variable assignmnents, date parts extensions (ranges, steps), @reboot etc, and some highlighting for executed commands (strings, percent sign).
